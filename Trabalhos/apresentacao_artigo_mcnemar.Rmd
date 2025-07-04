@@ -1,0 +1,89 @@
+---
+title: "Teste McNemar para Avaliação de Intervenção Educacional em Saúde e Nutrição"
+author: "Mariana Freitas e Aline Pires"
+output:
+  slidy_presentation: default
+  beamer_presentation: default
+---
+
+---
+
+# Artigo escolhido
+
++ Título: *Nutrition and health education intervention for student volunteers: topic-wise assessment of impact using a non-parametric test*
++ Autores: Vijayapushpam T., Antony G.M., Subba Rao G.M., Raghunatha Rao D.
++ Publicação: Public Health Nutrition, 2009
++ Local da pesquisa: Hyderabad, Índia
+
+---
+
+# Objetivos da Pesquisa
+
++ Avaliar o conhecimento prévio dos estudantes universitários sobre nutrição e saúde.
++ Aplicar uma intervenção educacional.
++ Avaliar o impacto da intervenção em aspectos específicos, utilizando principalmente o **teste de McNemar**.
+
+---
+
+# Delineamento do Estudo
+
++ Tipo: Estudo prospectivo de intervenção (antes–depois)
++ Amostra:
+  - 687 voluntários do National Service Scheme (NSS)
+  - Seis faculdades da Universidade de Osmania
+  - Estudantes com média de idade de 19 anos
++ Consentimento obtido de todos os participantes
+
+---
+
+# Intervenções Educacionais Testadas
+
++ Aulas presenciais em sala de aula
++ Seis sessões de 45 a 60 minutos ao longo de uma semana
++ Materiais utilizados:
+  - Cartazes, slides, pastas ilustradas
+  - Conteúdo sobre energia, proteínas, gorduras, adolescência, obesidade, doenças infecciosas e mais
++ Objetivo da intervenção: melhorar o conhecimento temático de forma acessível e visual
+
+---
+
+# Avaliação do Conhecimento
+
++ Questionário com 31 questões de múltipla escolha
++ Tópicos:
+  - Nutrição (18)
+  - Doenças infecciosas e saúde (9)
+  - Adolescência e doenças crônicas (4)
++ Pontuação: 2 pontos por resposta correta (máximo de 62 pontos)
++ Aplicação:
+  - Antes da intervenção 
+  - Duas semanas após a intervenção
+
+---
+
+# Por que usar o Teste de McNemar?
+
++ Avaliar mudanças em respostas binárias (certo/errado) em observações pareadas (mesmo participante antes e depois).
++ Vantagens:
+  - Não requer grupo controle — cada participante é seu próprio controle
+  - Ideal para estudos de intervenção
+  - Permite analisar efeito por tópico (a partir de acertos ou erros em cada questão), ao contrário de testes que avaliam apenas o escore total
++ Testa se houve mudança significativa na proporção de acertos entre o antes e depois da intervenção
+
+---
+
+## Funcionamento do Teste de McNemar
+
++ Utiliza uma tabela 2x2 com as seguintes categorias:
+  - Acertou antes e depois
+  - Errou antes e depois
+  - Acertou antes e errou depois
+  - Errou antes e acertou depois
++ O teste verifica se as mudanças nas respostas são simétricas.
++ Se há mais mudanças positivas, o teste pode indicar efeito significativo da intervenção
+
++ $H_0$: as proporções de respostas que mudaram em cada direção são iguais
++ $H_1$: as proporções são diferentes
+
+---
+
