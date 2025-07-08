@@ -2,8 +2,8 @@
 title: "Teste McNemar para Avaliação de Intervenção Educacional em Saúde e Nutrição"
 author: "Mariana Freitas e Aline Pires"
 output:
-  slidy_presentation: default
   beamer_presentation: default
+  slidy_presentation: default
 ---
 
 ---
@@ -87,3 +87,33 @@ output:
 
 ---
 
+# Resultado da Pesquisa
+
+## Impacto Geral da Intervenção Educacional
+
++ Houve melhora significativa no conhecimento dos voluntários após a intervenção educacional.
++ A média de pontos no questionário aumentou de 33,8 no pré-teste para 45,2 no pós-teste.
++ O incremento médio foi de 11,36 pontos (p-valor < 0.001), indicando que a intervenção foi eficaz em ampliar o conhecimento geral dos estudantes sobre nutrição e saúde.
+
+---
+
+## Avaliação por Tópico - Teste de MacNemar 
+
+O teste de McNemar permitiu identificar em quais tópicos houve melhora significativa no conhecimento, para cada estudante analisa as respostas corretas em cada questão antes e depois da intervenção.
+
+Os tópicos sem melhora significativa: 
+
++ Conteúdo nutricional do leite/soja e brotos
++ HIV, ELISA, malária e vacina DPT
++ Hipertensão e associação com obesidade 
+
+Nestes tópicos, o conhecimento prévio já era alto, o que pode explicar a ausência de diferença significativa após a intervenção
+
+Os demais 24 tópicos houve uma melhora significativa no conhecimento
+
+---
+
+## Interpretação dos Resultados
+
++ O teste de McNemar foi fundamental para identificar tópicos específicos em que a intervenção foi ou não eficaz, indo além da análise do escore total.
++ Permitiu sugerir ajustes futuros nos materiais didáticos, focando nos temas que não apresentaram melhora significativa.
